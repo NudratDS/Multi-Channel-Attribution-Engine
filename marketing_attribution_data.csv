@@ -1,0 +1,1501 @@
+Patient_ID,Touchpoint_Path,Total_Ad_Spend,Conversion
+P3000,Google Search > Web,22.01,0
+P3001,Referral > Web,47.7,0
+P3002,Referral > Web,23.88,1
+P3003,Referral > Web,41.75,1
+P3004,Email > Facebook > Web,17.72,0
+P3005,Referral > Web,18.46,0
+P3006,Direct > Web,31.8,0
+P3007,Email > Facebook > Web,49.91,1
+P3008,Facebook > Google > Web,28.29,0
+P3009,Direct > Web,47.13,0
+P3010,Email > Facebook > Web,40.38,1
+P3011,Email > Facebook > Web,40.81,1
+P3012,Google Search > Web,24.62,0
+P3013,Direct > Web,22.39,0
+P3014,Direct > Web,13.64,0
+P3015,Direct > Web,48.38,0
+P3016,Referral > Web,48.17,1
+P3017,Referral > Web,38.62,0
+P3018,Facebook > Google > Web,18.33,0
+P3019,Facebook > Google > Web,16.03,1
+P3020,Facebook > Google > Web,49.49,0
+P3021,Referral > Web,7.99,0
+P3022,Google Search > Web,42.96,0
+P3023,Facebook > Google > Web,21.0,1
+P3024,Email > Facebook > Web,23.85,0
+P3025,Referral > Web,42.44,0
+P3026,Google Search > Web,9.08,0
+P3027,Email > Facebook > Web,20.94,1
+P3028,Email > Facebook > Web,47.84,0
+P3029,Referral > Web,36.46,0
+P3030,Direct > Web,38.97,1
+P3031,Google Search > Web,39.09,1
+P3032,Referral > Web,7.73,1
+P3033,Direct > Web,14.14,0
+P3034,Referral > Web,27.11,1
+P3035,Referral > Web,21.57,0
+P3036,Email > Facebook > Web,23.49,0
+P3037,Referral > Web,40.17,0
+P3038,Direct > Web,5.66,0
+P3039,Email > Facebook > Web,34.72,0
+P3040,Direct > Web,5.0,0
+P3041,Direct > Web,7.84,1
+P3042,Email > Facebook > Web,23.37,0
+P3043,Direct > Web,42.84,0
+P3044,Facebook > Google > Web,11.52,0
+P3045,Referral > Web,29.96,1
+P3046,Email > Facebook > Web,35.53,0
+P3047,Email > Facebook > Web,15.33,0
+P3048,Facebook > Google > Web,28.05,0
+P3049,Facebook > Google > Web,46.01,1
+P3050,Facebook > Google > Web,28.05,0
+P3051,Facebook > Google > Web,12.08,0
+P3052,Google Search > Web,33.25,0
+P3053,Email > Facebook > Web,31.65,1
+P3054,Direct > Web,6.21,0
+P3055,Email > Facebook > Web,9.08,0
+P3056,Email > Facebook > Web,12.06,0
+P3057,Email > Facebook > Web,11.13,1
+P3058,Facebook > Google > Web,16.68,0
+P3059,Facebook > Google > Web,25.43,0
+P3060,Google Search > Web,21.73,0
+P3061,Email > Facebook > Web,45.08,0
+P3062,Referral > Web,32.54,0
+P3063,Google Search > Web,44.43,0
+P3064,Facebook > Google > Web,28.72,1
+P3065,Email > Facebook > Web,9.04,0
+P3066,Facebook > Google > Web,25.85,1
+P3067,Direct > Web,41.99,0
+P3068,Facebook > Google > Web,13.73,1
+P3069,Facebook > Google > Web,9.1,0
+P3070,Google Search > Web,19.82,0
+P3071,Direct > Web,22.5,0
+P3072,Referral > Web,18.78,1
+P3073,Referral > Web,11.09,1
+P3074,Referral > Web,16.29,0
+P3075,Email > Facebook > Web,35.7,0
+P3076,Referral > Web,22.37,0
+P3077,Email > Facebook > Web,33.46,0
+P3078,Facebook > Google > Web,29.13,0
+P3079,Referral > Web,29.71,0
+P3080,Google Search > Web,16.18,0
+P3081,Direct > Web,28.47,1
+P3082,Direct > Web,6.06,1
+P3083,Facebook > Google > Web,24.43,0
+P3084,Direct > Web,30.77,1
+P3085,Direct > Web,13.19,0
+P3086,Facebook > Google > Web,16.55,1
+P3087,Facebook > Google > Web,14.88,0
+P3088,Facebook > Google > Web,8.18,1
+P3089,Google Search > Web,20.65,0
+P3090,Facebook > Google > Web,49.05,0
+P3091,Facebook > Google > Web,20.92,0
+P3092,Facebook > Google > Web,25.72,0
+P3093,Referral > Web,34.39,0
+P3094,Referral > Web,34.18,0
+P3095,Google Search > Web,47.75,1
+P3096,Google Search > Web,43.59,0
+P3097,Direct > Web,40.73,0
+P3098,Referral > Web,47.82,0
+P3099,Google Search > Web,15.38,0
+P3100,Google Search > Web,32.77,0
+P3101,Direct > Web,44.92,1
+P3102,Facebook > Google > Web,33.09,0
+P3103,Email > Facebook > Web,48.98,0
+P3104,Direct > Web,9.52,0
+P3105,Email > Facebook > Web,24.77,0
+P3106,Direct > Web,48.98,0
+P3107,Direct > Web,22.08,0
+P3108,Facebook > Google > Web,38.28,1
+P3109,Google Search > Web,6.37,0
+P3110,Referral > Web,36.27,0
+P3111,Direct > Web,47.06,0
+P3112,Facebook > Google > Web,22.22,1
+P3113,Email > Facebook > Web,5.96,1
+P3114,Google Search > Web,6.26,0
+P3115,Direct > Web,45.14,1
+P3116,Email > Facebook > Web,37.51,0
+P3117,Direct > Web,9.8,0
+P3118,Referral > Web,7.46,1
+P3119,Referral > Web,41.22,1
+P3120,Google Search > Web,41.44,1
+P3121,Email > Facebook > Web,10.42,1
+P3122,Referral > Web,18.57,1
+P3123,Facebook > Google > Web,40.1,0
+P3124,Google Search > Web,28.64,0
+P3125,Direct > Web,48.05,0
+P3126,Email > Facebook > Web,26.65,1
+P3127,Email > Facebook > Web,35.46,0
+P3128,Facebook > Google > Web,27.94,0
+P3129,Referral > Web,47.43,1
+P3130,Email > Facebook > Web,22.94,1
+P3131,Facebook > Google > Web,15.34,0
+P3132,Facebook > Google > Web,19.7,0
+P3133,Direct > Web,43.37,0
+P3134,Facebook > Google > Web,27.41,0
+P3135,Google Search > Web,20.94,0
+P3136,Email > Facebook > Web,29.49,1
+P3137,Google Search > Web,11.0,0
+P3138,Facebook > Google > Web,5.24,0
+P3139,Facebook > Google > Web,17.63,0
+P3140,Google Search > Web,32.23,0
+P3141,Direct > Web,37.03,0
+P3142,Facebook > Google > Web,42.2,1
+P3143,Google Search > Web,46.7,1
+P3144,Google Search > Web,23.55,0
+P3145,Email > Facebook > Web,38.32,1
+P3146,Direct > Web,8.36,0
+P3147,Referral > Web,7.59,0
+P3148,Google Search > Web,10.62,0
+P3149,Email > Facebook > Web,25.19,0
+P3150,Referral > Web,14.51,0
+P3151,Email > Facebook > Web,17.91,0
+P3152,Email > Facebook > Web,34.15,0
+P3153,Direct > Web,21.13,0
+P3154,Facebook > Google > Web,30.08,0
+P3155,Direct > Web,23.56,0
+P3156,Referral > Web,12.6,0
+P3157,Direct > Web,8.33,0
+P3158,Facebook > Google > Web,15.63,0
+P3159,Direct > Web,7.6,1
+P3160,Direct > Web,32.84,0
+P3161,Direct > Web,40.81,0
+P3162,Google Search > Web,20.29,0
+P3163,Google Search > Web,22.42,0
+P3164,Direct > Web,41.73,1
+P3165,Facebook > Google > Web,15.02,0
+P3166,Facebook > Google > Web,10.36,0
+P3167,Facebook > Google > Web,27.55,1
+P3168,Facebook > Google > Web,34.08,0
+P3169,Email > Facebook > Web,31.98,0
+P3170,Direct > Web,37.12,1
+P3171,Direct > Web,7.55,1
+P3172,Email > Facebook > Web,24.27,0
+P3173,Facebook > Google > Web,15.74,0
+P3174,Referral > Web,39.16,1
+P3175,Referral > Web,44.27,0
+P3176,Email > Facebook > Web,17.66,0
+P3177,Referral > Web,9.28,0
+P3178,Google Search > Web,16.4,0
+P3179,Direct > Web,9.68,0
+P3180,Referral > Web,19.51,0
+P3181,Google Search > Web,29.22,1
+P3182,Direct > Web,48.82,0
+P3183,Google Search > Web,22.97,0
+P3184,Direct > Web,14.9,0
+P3185,Direct > Web,12.51,1
+P3186,Referral > Web,12.79,0
+P3187,Email > Facebook > Web,13.67,0
+P3188,Referral > Web,39.3,0
+P3189,Facebook > Google > Web,7.75,0
+P3190,Google Search > Web,49.88,1
+P3191,Facebook > Google > Web,28.52,0
+P3192,Direct > Web,29.49,0
+P3193,Referral > Web,21.09,1
+P3194,Facebook > Google > Web,36.06,0
+P3195,Facebook > Google > Web,26.22,0
+P3196,Facebook > Google > Web,19.81,0
+P3197,Direct > Web,16.93,0
+P3198,Direct > Web,46.65,0
+P3199,Direct > Web,18.09,0
+P3200,Facebook > Google > Web,24.64,0
+P3201,Google Search > Web,20.77,0
+P3202,Referral > Web,8.88,0
+P3203,Referral > Web,13.37,1
+P3204,Direct > Web,13.53,1
+P3205,Facebook > Google > Web,36.21,0
+P3206,Google Search > Web,23.3,1
+P3207,Email > Facebook > Web,40.19,0
+P3208,Direct > Web,36.9,0
+P3209,Email > Facebook > Web,13.64,0
+P3210,Referral > Web,30.33,0
+P3211,Referral > Web,38.43,0
+P3212,Google Search > Web,33.49,0
+P3213,Google Search > Web,32.0,0
+P3214,Email > Facebook > Web,38.28,0
+P3215,Referral > Web,7.56,1
+P3216,Google Search > Web,37.91,0
+P3217,Google Search > Web,17.27,0
+P3218,Referral > Web,30.73,1
+P3219,Referral > Web,15.9,0
+P3220,Facebook > Google > Web,42.75,0
+P3221,Google Search > Web,26.63,0
+P3222,Email > Facebook > Web,33.93,1
+P3223,Direct > Web,40.73,1
+P3224,Direct > Web,45.29,0
+P3225,Referral > Web,37.94,0
+P3226,Email > Facebook > Web,11.69,0
+P3227,Facebook > Google > Web,43.45,0
+P3228,Google Search > Web,32.84,1
+P3229,Facebook > Google > Web,32.43,0
+P3230,Email > Facebook > Web,46.46,0
+P3231,Facebook > Google > Web,16.2,0
+P3232,Referral > Web,15.78,0
+P3233,Direct > Web,28.09,1
+P3234,Referral > Web,38.79,1
+P3235,Google Search > Web,25.13,0
+P3236,Referral > Web,33.53,1
+P3237,Email > Facebook > Web,25.36,0
+P3238,Email > Facebook > Web,32.47,0
+P3239,Google Search > Web,42.0,0
+P3240,Google Search > Web,13.12,0
+P3241,Direct > Web,36.29,0
+P3242,Facebook > Google > Web,40.43,0
+P3243,Direct > Web,25.12,0
+P3244,Referral > Web,19.55,0
+P3245,Facebook > Google > Web,5.61,0
+P3246,Google Search > Web,40.87,0
+P3247,Email > Facebook > Web,19.76,0
+P3248,Referral > Web,21.08,1
+P3249,Direct > Web,20.12,0
+P3250,Google Search > Web,27.44,0
+P3251,Facebook > Google > Web,36.61,0
+P3252,Facebook > Google > Web,39.73,0
+P3253,Email > Facebook > Web,22.67,0
+P3254,Google Search > Web,34.84,0
+P3255,Google Search > Web,37.43,0
+P3256,Referral > Web,18.36,1
+P3257,Referral > Web,9.35,0
+P3258,Facebook > Google > Web,45.26,0
+P3259,Direct > Web,35.47,0
+P3260,Facebook > Google > Web,34.16,0
+P3261,Referral > Web,7.65,0
+P3262,Referral > Web,41.8,0
+P3263,Referral > Web,30.47,0
+P3264,Facebook > Google > Web,43.15,1
+P3265,Google Search > Web,48.86,0
+P3266,Direct > Web,48.07,1
+P3267,Direct > Web,43.52,0
+P3268,Referral > Web,5.49,0
+P3269,Email > Facebook > Web,44.86,0
+P3270,Facebook > Google > Web,8.38,0
+P3271,Google Search > Web,43.3,0
+P3272,Referral > Web,17.61,1
+P3273,Email > Facebook > Web,32.45,0
+P3274,Referral > Web,6.71,1
+P3275,Email > Facebook > Web,39.7,1
+P3276,Direct > Web,10.03,0
+P3277,Email > Facebook > Web,23.48,0
+P3278,Direct > Web,41.79,0
+P3279,Direct > Web,36.29,1
+P3280,Facebook > Google > Web,5.27,1
+P3281,Email > Facebook > Web,23.14,0
+P3282,Google Search > Web,6.89,0
+P3283,Google Search > Web,35.31,0
+P3284,Email > Facebook > Web,48.6,1
+P3285,Facebook > Google > Web,34.49,1
+P3286,Google Search > Web,15.1,0
+P3287,Referral > Web,20.99,0
+P3288,Google Search > Web,48.95,0
+P3289,Facebook > Google > Web,15.08,0
+P3290,Direct > Web,30.27,1
+P3291,Direct > Web,23.02,0
+P3292,Direct > Web,39.57,0
+P3293,Facebook > Google > Web,44.03,0
+P3294,Direct > Web,20.34,0
+P3295,Direct > Web,34.72,0
+P3296,Facebook > Google > Web,29.71,1
+P3297,Referral > Web,17.53,0
+P3298,Google Search > Web,17.24,0
+P3299,Facebook > Google > Web,29.24,0
+P3300,Facebook > Google > Web,11.93,0
+P3301,Email > Facebook > Web,41.49,0
+P3302,Direct > Web,8.11,0
+P3303,Referral > Web,9.26,0
+P3304,Email > Facebook > Web,20.4,0
+P3305,Referral > Web,10.31,1
+P3306,Direct > Web,26.41,0
+P3307,Direct > Web,22.99,0
+P3308,Direct > Web,37.48,0
+P3309,Google Search > Web,47.89,1
+P3310,Referral > Web,38.91,0
+P3311,Referral > Web,13.08,0
+P3312,Email > Facebook > Web,47.1,0
+P3313,Facebook > Google > Web,22.65,0
+P3314,Direct > Web,26.34,1
+P3315,Direct > Web,23.97,1
+P3316,Email > Facebook > Web,17.62,0
+P3317,Referral > Web,45.28,1
+P3318,Google Search > Web,19.95,0
+P3319,Referral > Web,31.04,0
+P3320,Google Search > Web,15.8,1
+P3321,Google Search > Web,40.88,0
+P3322,Referral > Web,39.84,0
+P3323,Direct > Web,18.33,1
+P3324,Google Search > Web,35.67,0
+P3325,Email > Facebook > Web,36.67,0
+P3326,Email > Facebook > Web,30.31,0
+P3327,Google Search > Web,32.03,1
+P3328,Direct > Web,30.85,1
+P3329,Google Search > Web,8.68,0
+P3330,Email > Facebook > Web,35.16,1
+P3331,Email > Facebook > Web,26.14,1
+P3332,Referral > Web,24.73,0
+P3333,Direct > Web,43.7,1
+P3334,Referral > Web,6.05,0
+P3335,Facebook > Google > Web,16.31,0
+P3336,Google Search > Web,10.46,0
+P3337,Referral > Web,6.59,0
+P3338,Direct > Web,17.41,0
+P3339,Google Search > Web,49.48,0
+P3340,Google Search > Web,17.16,0
+P3341,Google Search > Web,34.87,0
+P3342,Google Search > Web,10.32,0
+P3343,Google Search > Web,32.08,1
+P3344,Direct > Web,49.3,1
+P3345,Facebook > Google > Web,18.13,1
+P3346,Email > Facebook > Web,43.16,0
+P3347,Facebook > Google > Web,49.89,1
+P3348,Email > Facebook > Web,31.48,0
+P3349,Referral > Web,18.92,0
+P3350,Google Search > Web,35.31,0
+P3351,Referral > Web,43.02,0
+P3352,Referral > Web,12.71,1
+P3353,Email > Facebook > Web,25.36,0
+P3354,Direct > Web,19.36,0
+P3355,Google Search > Web,17.75,1
+P3356,Referral > Web,43.74,0
+P3357,Facebook > Google > Web,23.97,1
+P3358,Google Search > Web,20.26,1
+P3359,Direct > Web,32.16,0
+P3360,Google Search > Web,14.87,0
+P3361,Referral > Web,15.35,0
+P3362,Facebook > Google > Web,28.41,0
+P3363,Referral > Web,23.42,0
+P3364,Direct > Web,18.27,0
+P3365,Email > Facebook > Web,7.43,1
+P3366,Facebook > Google > Web,28.43,1
+P3367,Direct > Web,41.75,1
+P3368,Direct > Web,43.31,0
+P3369,Referral > Web,15.59,0
+P3370,Referral > Web,31.98,0
+P3371,Referral > Web,43.51,0
+P3372,Email > Facebook > Web,23.39,1
+P3373,Google Search > Web,46.95,1
+P3374,Google Search > Web,45.63,0
+P3375,Referral > Web,14.37,1
+P3376,Referral > Web,16.65,0
+P3377,Email > Facebook > Web,13.12,0
+P3378,Google Search > Web,13.82,0
+P3379,Email > Facebook > Web,45.85,0
+P3380,Direct > Web,46.9,1
+P3381,Google Search > Web,7.34,1
+P3382,Referral > Web,31.71,0
+P3383,Facebook > Google > Web,30.39,0
+P3384,Direct > Web,22.57,0
+P3385,Facebook > Google > Web,33.43,1
+P3386,Email > Facebook > Web,47.63,1
+P3387,Email > Facebook > Web,12.66,1
+P3388,Email > Facebook > Web,10.42,1
+P3389,Referral > Web,6.5,0
+P3390,Email > Facebook > Web,21.37,0
+P3391,Facebook > Google > Web,20.19,0
+P3392,Direct > Web,24.39,0
+P3393,Referral > Web,27.65,1
+P3394,Direct > Web,39.1,1
+P3395,Email > Facebook > Web,22.65,0
+P3396,Google Search > Web,19.88,0
+P3397,Referral > Web,42.21,0
+P3398,Email > Facebook > Web,43.24,0
+P3399,Referral > Web,15.47,0
+P3400,Google Search > Web,19.16,0
+P3401,Facebook > Google > Web,42.13,1
+P3402,Facebook > Google > Web,8.57,0
+P3403,Facebook > Google > Web,19.66,0
+P3404,Google Search > Web,25.18,0
+P3405,Direct > Web,13.42,1
+P3406,Google Search > Web,13.1,1
+P3407,Google Search > Web,24.12,0
+P3408,Email > Facebook > Web,38.95,1
+P3409,Facebook > Google > Web,42.81,0
+P3410,Referral > Web,49.07,0
+P3411,Direct > Web,8.33,0
+P3412,Referral > Web,14.75,0
+P3413,Email > Facebook > Web,39.05,0
+P3414,Email > Facebook > Web,29.33,1
+P3415,Direct > Web,19.75,1
+P3416,Referral > Web,14.25,0
+P3417,Direct > Web,17.62,0
+P3418,Direct > Web,24.32,0
+P3419,Facebook > Google > Web,12.97,0
+P3420,Referral > Web,48.39,0
+P3421,Facebook > Google > Web,9.84,0
+P3422,Facebook > Google > Web,49.35,1
+P3423,Facebook > Google > Web,42.89,1
+P3424,Google Search > Web,24.04,0
+P3425,Email > Facebook > Web,38.29,0
+P3426,Email > Facebook > Web,35.22,0
+P3427,Google Search > Web,14.6,0
+P3428,Direct > Web,20.26,0
+P3429,Referral > Web,28.09,0
+P3430,Referral > Web,33.7,0
+P3431,Referral > Web,29.43,1
+P3432,Facebook > Google > Web,26.28,0
+P3433,Referral > Web,24.94,1
+P3434,Referral > Web,27.42,0
+P3435,Referral > Web,24.55,1
+P3436,Email > Facebook > Web,29.36,0
+P3437,Google Search > Web,44.96,0
+P3438,Direct > Web,33.48,0
+P3439,Google Search > Web,37.52,0
+P3440,Referral > Web,31.89,0
+P3441,Direct > Web,33.94,1
+P3442,Direct > Web,31.03,1
+P3443,Google Search > Web,6.21,0
+P3444,Google Search > Web,49.98,0
+P3445,Google Search > Web,6.51,0
+P3446,Google Search > Web,22.78,1
+P3447,Facebook > Google > Web,9.73,1
+P3448,Email > Facebook > Web,9.36,0
+P3449,Email > Facebook > Web,40.71,0
+P3450,Referral > Web,24.17,1
+P3451,Facebook > Google > Web,41.05,0
+P3452,Direct > Web,17.28,0
+P3453,Google Search > Web,16.54,0
+P3454,Referral > Web,16.31,1
+P3455,Direct > Web,32.73,0
+P3456,Email > Facebook > Web,41.67,1
+P3457,Direct > Web,25.35,0
+P3458,Google Search > Web,22.07,0
+P3459,Google Search > Web,48.81,0
+P3460,Email > Facebook > Web,10.25,1
+P3461,Google Search > Web,26.9,0
+P3462,Facebook > Google > Web,23.38,0
+P3463,Referral > Web,9.42,0
+P3464,Email > Facebook > Web,17.07,0
+P3465,Email > Facebook > Web,6.28,1
+P3466,Direct > Web,44.46,0
+P3467,Email > Facebook > Web,32.35,1
+P3468,Referral > Web,41.68,1
+P3469,Facebook > Google > Web,28.47,0
+P3470,Direct > Web,31.98,1
+P3471,Referral > Web,36.54,0
+P3472,Email > Facebook > Web,45.86,0
+P3473,Google Search > Web,9.13,0
+P3474,Google Search > Web,19.89,1
+P3475,Referral > Web,36.91,0
+P3476,Facebook > Google > Web,48.13,0
+P3477,Google Search > Web,49.14,1
+P3478,Referral > Web,33.71,1
+P3479,Direct > Web,13.71,0
+P3480,Email > Facebook > Web,10.36,0
+P3481,Facebook > Google > Web,47.57,0
+P3482,Facebook > Google > Web,24.53,0
+P3483,Direct > Web,13.77,0
+P3484,Facebook > Google > Web,47.03,0
+P3485,Referral > Web,9.7,0
+P3486,Facebook > Google > Web,37.83,1
+P3487,Facebook > Google > Web,33.14,0
+P3488,Facebook > Google > Web,8.95,0
+P3489,Referral > Web,20.24,0
+P3490,Email > Facebook > Web,11.75,0
+P3491,Google Search > Web,32.2,0
+P3492,Facebook > Google > Web,26.47,0
+P3493,Direct > Web,5.19,0
+P3494,Direct > Web,48.91,0
+P3495,Referral > Web,20.73,0
+P3496,Email > Facebook > Web,16.62,0
+P3497,Facebook > Google > Web,15.01,0
+P3498,Referral > Web,12.15,0
+P3499,Google Search > Web,49.96,0
+P3500,Email > Facebook > Web,18.28,0
+P3501,Email > Facebook > Web,23.25,1
+P3502,Referral > Web,44.21,0
+P3503,Direct > Web,33.88,1
+P3504,Email > Facebook > Web,21.59,1
+P3505,Direct > Web,45.42,1
+P3506,Email > Facebook > Web,38.74,0
+P3507,Email > Facebook > Web,15.26,1
+P3508,Email > Facebook > Web,33.97,1
+P3509,Google Search > Web,46.51,0
+P3510,Direct > Web,27.34,0
+P3511,Google Search > Web,38.01,1
+P3512,Direct > Web,48.7,0
+P3513,Google Search > Web,36.07,0
+P3514,Google Search > Web,9.61,1
+P3515,Google Search > Web,16.01,0
+P3516,Referral > Web,31.78,0
+P3517,Google Search > Web,17.4,0
+P3518,Email > Facebook > Web,48.09,0
+P3519,Facebook > Google > Web,23.24,1
+P3520,Google Search > Web,25.58,0
+P3521,Facebook > Google > Web,36.57,1
+P3522,Facebook > Google > Web,28.59,0
+P3523,Email > Facebook > Web,22.2,0
+P3524,Facebook > Google > Web,8.45,0
+P3525,Facebook > Google > Web,31.84,0
+P3526,Facebook > Google > Web,44.04,1
+P3527,Direct > Web,35.86,0
+P3528,Google Search > Web,22.17,1
+P3529,Google Search > Web,10.75,0
+P3530,Facebook > Google > Web,41.74,0
+P3531,Email > Facebook > Web,47.38,0
+P3532,Direct > Web,22.47,1
+P3533,Email > Facebook > Web,37.79,0
+P3534,Email > Facebook > Web,23.48,0
+P3535,Facebook > Google > Web,27.6,0
+P3536,Referral > Web,42.64,0
+P3537,Facebook > Google > Web,8.75,0
+P3538,Referral > Web,28.87,0
+P3539,Direct > Web,14.66,1
+P3540,Referral > Web,20.29,0
+P3541,Facebook > Google > Web,34.0,0
+P3542,Facebook > Google > Web,6.23,0
+P3543,Email > Facebook > Web,31.72,0
+P3544,Facebook > Google > Web,17.75,0
+P3545,Facebook > Google > Web,35.13,1
+P3546,Google Search > Web,11.37,1
+P3547,Google Search > Web,38.11,0
+P3548,Email > Facebook > Web,34.05,0
+P3549,Referral > Web,48.71,1
+P3550,Referral > Web,46.01,1
+P3551,Google Search > Web,17.75,0
+P3552,Direct > Web,6.23,0
+P3553,Google Search > Web,34.49,1
+P3554,Direct > Web,32.13,0
+P3555,Referral > Web,6.23,0
+P3556,Google Search > Web,10.52,1
+P3557,Facebook > Google > Web,31.31,1
+P3558,Direct > Web,46.03,0
+P3559,Direct > Web,45.79,0
+P3560,Direct > Web,11.82,0
+P3561,Referral > Web,22.31,1
+P3562,Email > Facebook > Web,6.94,1
+P3563,Facebook > Google > Web,26.12,1
+P3564,Google Search > Web,38.89,0
+P3565,Direct > Web,40.55,0
+P3566,Referral > Web,27.45,0
+P3567,Direct > Web,9.31,0
+P3568,Google Search > Web,22.16,0
+P3569,Facebook > Google > Web,46.94,0
+P3570,Direct > Web,15.33,0
+P3571,Referral > Web,19.39,1
+P3572,Referral > Web,38.61,0
+P3573,Email > Facebook > Web,38.01,1
+P3574,Referral > Web,46.05,0
+P3575,Email > Facebook > Web,22.47,1
+P3576,Facebook > Google > Web,28.16,0
+P3577,Google Search > Web,26.03,0
+P3578,Email > Facebook > Web,46.75,0
+P3579,Direct > Web,39.62,0
+P3580,Direct > Web,42.41,0
+P3581,Google Search > Web,10.99,1
+P3582,Referral > Web,40.63,0
+P3583,Direct > Web,24.48,0
+P3584,Email > Facebook > Web,6.05,0
+P3585,Google Search > Web,7.7,0
+P3586,Direct > Web,35.51,1
+P3587,Referral > Web,21.74,0
+P3588,Referral > Web,44.07,0
+P3589,Direct > Web,38.04,1
+P3590,Google Search > Web,5.98,0
+P3591,Facebook > Google > Web,35.91,1
+P3592,Direct > Web,13.66,0
+P3593,Referral > Web,24.02,0
+P3594,Facebook > Google > Web,33.11,0
+P3595,Google Search > Web,44.27,0
+P3596,Referral > Web,25.52,1
+P3597,Google Search > Web,41.38,0
+P3598,Direct > Web,40.23,0
+P3599,Google Search > Web,23.65,0
+P3600,Referral > Web,27.54,0
+P3601,Direct > Web,36.52,1
+P3602,Referral > Web,6.4,0
+P3603,Referral > Web,45.09,1
+P3604,Facebook > Google > Web,39.64,1
+P3605,Email > Facebook > Web,16.22,0
+P3606,Google Search > Web,49.15,1
+P3607,Google Search > Web,13.07,0
+P3608,Facebook > Google > Web,46.13,0
+P3609,Google Search > Web,19.6,0
+P3610,Facebook > Google > Web,39.34,0
+P3611,Google Search > Web,25.54,1
+P3612,Google Search > Web,38.14,0
+P3613,Referral > Web,12.01,0
+P3614,Facebook > Google > Web,17.13,0
+P3615,Google Search > Web,9.49,0
+P3616,Email > Facebook > Web,43.93,0
+P3617,Facebook > Google > Web,18.33,1
+P3618,Facebook > Google > Web,36.25,0
+P3619,Facebook > Google > Web,41.91,1
+P3620,Referral > Web,45.56,1
+P3621,Facebook > Google > Web,9.78,0
+P3622,Referral > Web,45.19,0
+P3623,Email > Facebook > Web,13.88,0
+P3624,Direct > Web,38.16,1
+P3625,Referral > Web,37.8,0
+P3626,Google Search > Web,5.38,0
+P3627,Facebook > Google > Web,14.93,0
+P3628,Direct > Web,27.14,0
+P3629,Referral > Web,23.9,0
+P3630,Google Search > Web,46.34,0
+P3631,Direct > Web,21.19,0
+P3632,Email > Facebook > Web,47.16,0
+P3633,Referral > Web,25.67,0
+P3634,Referral > Web,48.4,0
+P3635,Email > Facebook > Web,38.18,1
+P3636,Referral > Web,42.32,0
+P3637,Facebook > Google > Web,9.72,0
+P3638,Referral > Web,31.38,0
+P3639,Facebook > Google > Web,11.42,0
+P3640,Referral > Web,18.39,0
+P3641,Google Search > Web,33.06,0
+P3642,Google Search > Web,37.68,1
+P3643,Direct > Web,6.76,0
+P3644,Google Search > Web,28.89,0
+P3645,Email > Facebook > Web,30.44,1
+P3646,Direct > Web,8.55,0
+P3647,Google Search > Web,27.53,0
+P3648,Facebook > Google > Web,37.12,0
+P3649,Referral > Web,7.4,1
+P3650,Google Search > Web,39.21,0
+P3651,Facebook > Google > Web,30.94,0
+P3652,Direct > Web,42.5,0
+P3653,Referral > Web,14.81,1
+P3654,Google Search > Web,42.5,1
+P3655,Direct > Web,9.26,0
+P3656,Google Search > Web,23.17,0
+P3657,Direct > Web,13.98,0
+P3658,Google Search > Web,44.42,0
+P3659,Facebook > Google > Web,36.72,1
+P3660,Email > Facebook > Web,6.14,0
+P3661,Facebook > Google > Web,5.43,0
+P3662,Referral > Web,18.11,0
+P3663,Google Search > Web,11.45,0
+P3664,Email > Facebook > Web,33.36,0
+P3665,Email > Facebook > Web,34.87,1
+P3666,Referral > Web,47.39,0
+P3667,Referral > Web,47.84,0
+P3668,Email > Facebook > Web,34.65,0
+P3669,Referral > Web,5.26,0
+P3670,Referral > Web,21.15,0
+P3671,Google Search > Web,28.09,0
+P3672,Facebook > Google > Web,27.46,0
+P3673,Direct > Web,32.15,0
+P3674,Email > Facebook > Web,48.22,0
+P3675,Direct > Web,44.83,0
+P3676,Email > Facebook > Web,9.9,1
+P3677,Email > Facebook > Web,16.97,0
+P3678,Facebook > Google > Web,42.49,1
+P3679,Email > Facebook > Web,42.09,0
+P3680,Email > Facebook > Web,17.39,0
+P3681,Facebook > Google > Web,37.88,1
+P3682,Referral > Web,35.24,0
+P3683,Direct > Web,26.31,0
+P3684,Email > Facebook > Web,14.07,0
+P3685,Facebook > Google > Web,44.99,1
+P3686,Email > Facebook > Web,35.5,0
+P3687,Facebook > Google > Web,12.6,0
+P3688,Direct > Web,36.72,0
+P3689,Google Search > Web,38.36,1
+P3690,Referral > Web,44.91,0
+P3691,Google Search > Web,15.03,0
+P3692,Facebook > Google > Web,49.49,0
+P3693,Email > Facebook > Web,11.9,1
+P3694,Referral > Web,32.03,0
+P3695,Direct > Web,34.57,0
+P3696,Referral > Web,23.85,1
+P3697,Email > Facebook > Web,26.38,0
+P3698,Google Search > Web,45.09,0
+P3699,Facebook > Google > Web,34.04,1
+P3700,Google Search > Web,27.37,1
+P3701,Referral > Web,10.78,0
+P3702,Email > Facebook > Web,5.33,0
+P3703,Facebook > Google > Web,10.62,0
+P3704,Email > Facebook > Web,48.03,1
+P3705,Email > Facebook > Web,39.38,1
+P3706,Referral > Web,48.52,0
+P3707,Google Search > Web,6.61,0
+P3708,Email > Facebook > Web,35.61,1
+P3709,Email > Facebook > Web,6.99,0
+P3710,Email > Facebook > Web,40.19,0
+P3711,Facebook > Google > Web,22.14,0
+P3712,Email > Facebook > Web,9.31,0
+P3713,Email > Facebook > Web,30.56,1
+P3714,Referral > Web,17.61,1
+P3715,Email > Facebook > Web,34.68,0
+P3716,Email > Facebook > Web,34.62,0
+P3717,Referral > Web,36.73,0
+P3718,Facebook > Google > Web,49.66,1
+P3719,Google Search > Web,22.4,0
+P3720,Referral > Web,25.94,0
+P3721,Facebook > Google > Web,41.21,0
+P3722,Google Search > Web,31.03,0
+P3723,Email > Facebook > Web,6.68,0
+P3724,Referral > Web,42.94,1
+P3725,Email > Facebook > Web,7.32,0
+P3726,Referral > Web,12.69,0
+P3727,Google Search > Web,9.59,0
+P3728,Facebook > Google > Web,8.51,0
+P3729,Referral > Web,6.16,0
+P3730,Facebook > Google > Web,7.48,0
+P3731,Email > Facebook > Web,24.91,1
+P3732,Email > Facebook > Web,16.38,0
+P3733,Google Search > Web,10.69,0
+P3734,Google Search > Web,34.64,0
+P3735,Direct > Web,15.18,1
+P3736,Direct > Web,5.85,0
+P3737,Google Search > Web,23.83,1
+P3738,Email > Facebook > Web,18.97,0
+P3739,Facebook > Google > Web,19.34,0
+P3740,Google Search > Web,25.04,0
+P3741,Facebook > Google > Web,35.1,1
+P3742,Direct > Web,32.74,0
+P3743,Facebook > Google > Web,47.18,0
+P3744,Google Search > Web,28.3,0
+P3745,Email > Facebook > Web,26.27,0
+P3746,Google Search > Web,14.6,0
+P3747,Referral > Web,38.99,0
+P3748,Referral > Web,11.33,0
+P3749,Referral > Web,27.1,0
+P3750,Email > Facebook > Web,23.96,0
+P3751,Google Search > Web,34.62,0
+P3752,Referral > Web,46.29,0
+P3753,Google Search > Web,47.6,0
+P3754,Direct > Web,12.55,0
+P3755,Referral > Web,16.78,0
+P3756,Referral > Web,41.52,0
+P3757,Email > Facebook > Web,28.32,0
+P3758,Google Search > Web,25.39,0
+P3759,Email > Facebook > Web,36.98,0
+P3760,Email > Facebook > Web,32.09,0
+P3761,Google Search > Web,48.68,0
+P3762,Direct > Web,31.28,0
+P3763,Google Search > Web,25.97,0
+P3764,Direct > Web,29.43,0
+P3765,Email > Facebook > Web,41.38,0
+P3766,Direct > Web,32.57,1
+P3767,Direct > Web,34.12,0
+P3768,Direct > Web,48.71,1
+P3769,Referral > Web,32.83,0
+P3770,Referral > Web,22.11,1
+P3771,Email > Facebook > Web,36.11,0
+P3772,Google Search > Web,34.68,1
+P3773,Direct > Web,5.62,0
+P3774,Referral > Web,26.03,0
+P3775,Google Search > Web,38.43,0
+P3776,Direct > Web,27.46,1
+P3777,Google Search > Web,40.08,1
+P3778,Facebook > Google > Web,25.29,0
+P3779,Direct > Web,49.25,0
+P3780,Google Search > Web,18.18,0
+P3781,Direct > Web,9.15,0
+P3782,Direct > Web,24.35,0
+P3783,Facebook > Google > Web,29.38,1
+P3784,Google Search > Web,20.71,0
+P3785,Email > Facebook > Web,15.9,0
+P3786,Referral > Web,35.24,0
+P3787,Direct > Web,21.97,0
+P3788,Direct > Web,33.41,0
+P3789,Direct > Web,40.06,0
+P3790,Direct > Web,39.25,0
+P3791,Referral > Web,21.89,0
+P3792,Email > Facebook > Web,30.56,0
+P3793,Facebook > Google > Web,25.23,0
+P3794,Email > Facebook > Web,44.19,1
+P3795,Referral > Web,44.54,0
+P3796,Google Search > Web,20.47,1
+P3797,Facebook > Google > Web,9.13,0
+P3798,Facebook > Google > Web,12.54,0
+P3799,Google Search > Web,21.52,0
+P3800,Direct > Web,30.39,0
+P3801,Referral > Web,34.56,1
+P3802,Google Search > Web,19.91,0
+P3803,Email > Facebook > Web,35.04,0
+P3804,Email > Facebook > Web,47.2,0
+P3805,Google Search > Web,34.34,0
+P3806,Referral > Web,12.14,0
+P3807,Facebook > Google > Web,31.09,0
+P3808,Facebook > Google > Web,29.39,0
+P3809,Direct > Web,44.18,0
+P3810,Referral > Web,20.76,0
+P3811,Email > Facebook > Web,24.03,0
+P3812,Email > Facebook > Web,31.94,0
+P3813,Direct > Web,28.6,0
+P3814,Email > Facebook > Web,37.36,0
+P3815,Direct > Web,6.82,0
+P3816,Direct > Web,30.36,0
+P3817,Google Search > Web,10.48,1
+P3818,Facebook > Google > Web,19.18,0
+P3819,Referral > Web,34.77,0
+P3820,Referral > Web,12.08,1
+P3821,Facebook > Google > Web,18.9,0
+P3822,Referral > Web,36.64,0
+P3823,Email > Facebook > Web,34.29,0
+P3824,Email > Facebook > Web,9.1,1
+P3825,Referral > Web,30.98,1
+P3826,Google Search > Web,11.63,0
+P3827,Referral > Web,16.35,0
+P3828,Direct > Web,25.66,0
+P3829,Direct > Web,9.92,0
+P3830,Facebook > Google > Web,49.71,0
+P3831,Email > Facebook > Web,12.44,0
+P3832,Google Search > Web,40.16,0
+P3833,Referral > Web,42.34,1
+P3834,Direct > Web,49.75,0
+P3835,Email > Facebook > Web,24.29,0
+P3836,Email > Facebook > Web,44.33,1
+P3837,Google Search > Web,48.09,1
+P3838,Google Search > Web,12.78,0
+P3839,Google Search > Web,26.57,0
+P3840,Google Search > Web,7.7,0
+P3841,Direct > Web,32.93,1
+P3842,Google Search > Web,31.16,0
+P3843,Email > Facebook > Web,14.19,0
+P3844,Email > Facebook > Web,40.91,0
+P3845,Referral > Web,6.68,0
+P3846,Email > Facebook > Web,41.28,1
+P3847,Email > Facebook > Web,6.2,0
+P3848,Direct > Web,34.56,0
+P3849,Email > Facebook > Web,8.54,0
+P3850,Facebook > Google > Web,16.31,0
+P3851,Email > Facebook > Web,37.49,0
+P3852,Referral > Web,17.62,1
+P3853,Referral > Web,28.0,1
+P3854,Google Search > Web,46.19,0
+P3855,Direct > Web,7.23,0
+P3856,Referral > Web,41.5,1
+P3857,Facebook > Google > Web,7.94,0
+P3858,Facebook > Google > Web,10.71,1
+P3859,Google Search > Web,10.37,0
+P3860,Direct > Web,49.73,0
+P3861,Direct > Web,13.11,0
+P3862,Email > Facebook > Web,45.35,1
+P3863,Facebook > Google > Web,49.59,1
+P3864,Facebook > Google > Web,22.27,0
+P3865,Facebook > Google > Web,33.4,0
+P3866,Facebook > Google > Web,40.06,0
+P3867,Referral > Web,22.67,0
+P3868,Direct > Web,12.28,0
+P3869,Email > Facebook > Web,24.52,0
+P3870,Referral > Web,39.73,0
+P3871,Direct > Web,40.13,0
+P3872,Google Search > Web,15.37,0
+P3873,Facebook > Google > Web,12.87,0
+P3874,Email > Facebook > Web,46.43,0
+P3875,Direct > Web,6.98,1
+P3876,Google Search > Web,38.06,0
+P3877,Facebook > Google > Web,7.09,0
+P3878,Google Search > Web,42.71,0
+P3879,Google Search > Web,45.74,1
+P3880,Referral > Web,18.38,0
+P3881,Google Search > Web,8.33,0
+P3882,Referral > Web,26.63,1
+P3883,Referral > Web,18.43,0
+P3884,Google Search > Web,23.77,0
+P3885,Direct > Web,34.92,0
+P3886,Google Search > Web,14.44,1
+P3887,Google Search > Web,21.06,0
+P3888,Direct > Web,40.22,0
+P3889,Facebook > Google > Web,33.97,0
+P3890,Email > Facebook > Web,19.68,0
+P3891,Facebook > Google > Web,34.89,1
+P3892,Google Search > Web,39.44,0
+P3893,Facebook > Google > Web,31.66,0
+P3894,Email > Facebook > Web,15.78,1
+P3895,Facebook > Google > Web,5.01,0
+P3896,Email > Facebook > Web,41.13,0
+P3897,Facebook > Google > Web,42.02,0
+P3898,Referral > Web,36.39,0
+P3899,Google Search > Web,8.45,0
+P3900,Email > Facebook > Web,31.34,0
+P3901,Google Search > Web,41.95,0
+P3902,Referral > Web,22.54,0
+P3903,Facebook > Google > Web,13.91,0
+P3904,Google Search > Web,31.44,0
+P3905,Facebook > Google > Web,42.18,0
+P3906,Facebook > Google > Web,7.2,0
+P3907,Google Search > Web,31.86,0
+P3908,Email > Facebook > Web,33.94,1
+P3909,Email > Facebook > Web,32.11,1
+P3910,Google Search > Web,34.25,0
+P3911,Email > Facebook > Web,33.41,1
+P3912,Direct > Web,10.87,1
+P3913,Facebook > Google > Web,15.57,0
+P3914,Google Search > Web,32.85,0
+P3915,Referral > Web,5.8,1
+P3916,Google Search > Web,33.56,0
+P3917,Google Search > Web,34.94,0
+P3918,Facebook > Google > Web,15.76,0
+P3919,Referral > Web,31.92,0
+P3920,Facebook > Google > Web,29.03,0
+P3921,Email > Facebook > Web,16.73,0
+P3922,Google Search > Web,25.83,0
+P3923,Facebook > Google > Web,45.93,0
+P3924,Direct > Web,24.2,1
+P3925,Google Search > Web,33.34,0
+P3926,Email > Facebook > Web,6.59,0
+P3927,Facebook > Google > Web,8.5,0
+P3928,Facebook > Google > Web,8.66,0
+P3929,Direct > Web,40.02,1
+P3930,Email > Facebook > Web,20.76,0
+P3931,Direct > Web,15.24,0
+P3932,Google Search > Web,38.63,0
+P3933,Referral > Web,12.65,0
+P3934,Facebook > Google > Web,16.09,0
+P3935,Direct > Web,24.39,0
+P3936,Facebook > Google > Web,19.91,0
+P3937,Facebook > Google > Web,31.34,0
+P3938,Direct > Web,20.2,1
+P3939,Facebook > Google > Web,22.68,0
+P3940,Email > Facebook > Web,43.83,0
+P3941,Email > Facebook > Web,44.8,1
+P3942,Referral > Web,42.25,1
+P3943,Email > Facebook > Web,43.92,0
+P3944,Direct > Web,30.64,1
+P3945,Email > Facebook > Web,34.08,0
+P3946,Referral > Web,30.07,0
+P3947,Google Search > Web,40.35,0
+P3948,Google Search > Web,29.8,0
+P3949,Direct > Web,10.0,0
+P3950,Referral > Web,41.43,0
+P3951,Email > Facebook > Web,39.23,0
+P3952,Referral > Web,41.91,1
+P3953,Facebook > Google > Web,13.57,0
+P3954,Referral > Web,17.22,0
+P3955,Email > Facebook > Web,18.31,0
+P3956,Direct > Web,27.86,0
+P3957,Facebook > Google > Web,11.02,1
+P3958,Referral > Web,22.34,0
+P3959,Google Search > Web,13.2,0
+P3960,Email > Facebook > Web,16.91,0
+P3961,Direct > Web,36.79,1
+P3962,Email > Facebook > Web,43.47,0
+P3963,Referral > Web,6.03,0
+P3964,Direct > Web,30.47,0
+P3965,Google Search > Web,6.62,1
+P3966,Facebook > Google > Web,8.84,0
+P3967,Referral > Web,36.73,1
+P3968,Direct > Web,38.1,0
+P3969,Facebook > Google > Web,41.63,0
+P3970,Direct > Web,26.34,0
+P3971,Referral > Web,43.69,0
+P3972,Direct > Web,12.51,1
+P3973,Google Search > Web,16.24,1
+P3974,Direct > Web,11.05,0
+P3975,Referral > Web,40.89,0
+P3976,Direct > Web,15.29,1
+P3977,Facebook > Google > Web,12.0,0
+P3978,Facebook > Google > Web,33.04,1
+P3979,Email > Facebook > Web,8.47,1
+P3980,Email > Facebook > Web,7.02,0
+P3981,Google Search > Web,9.8,1
+P3982,Facebook > Google > Web,5.01,0
+P3983,Email > Facebook > Web,36.36,0
+P3984,Direct > Web,30.3,0
+P3985,Google Search > Web,14.44,0
+P3986,Referral > Web,15.49,0
+P3987,Email > Facebook > Web,41.49,1
+P3988,Email > Facebook > Web,27.58,0
+P3989,Facebook > Google > Web,36.43,0
+P3990,Google Search > Web,25.37,0
+P3991,Facebook > Google > Web,15.7,0
+P3992,Facebook > Google > Web,48.67,0
+P3993,Google Search > Web,30.45,0
+P3994,Direct > Web,10.89,0
+P3995,Email > Facebook > Web,23.27,0
+P3996,Facebook > Google > Web,19.82,1
+P3997,Email > Facebook > Web,14.63,0
+P3998,Google Search > Web,47.0,0
+P3999,Direct > Web,44.64,1
+P4000,Referral > Web,13.96,1
+P4001,Direct > Web,20.85,0
+P4002,Google Search > Web,39.3,0
+P4003,Direct > Web,14.38,1
+P4004,Referral > Web,31.62,0
+P4005,Facebook > Google > Web,36.49,1
+P4006,Direct > Web,34.43,0
+P4007,Google Search > Web,36.79,0
+P4008,Direct > Web,36.8,0
+P4009,Referral > Web,48.42,0
+P4010,Google Search > Web,20.59,0
+P4011,Direct > Web,44.54,0
+P4012,Google Search > Web,5.98,0
+P4013,Referral > Web,17.97,1
+P4014,Facebook > Google > Web,7.19,0
+P4015,Referral > Web,34.3,0
+P4016,Facebook > Google > Web,9.54,1
+P4017,Email > Facebook > Web,43.06,0
+P4018,Referral > Web,34.1,0
+P4019,Facebook > Google > Web,6.3,0
+P4020,Email > Facebook > Web,37.16,0
+P4021,Email > Facebook > Web,43.79,0
+P4022,Email > Facebook > Web,34.75,1
+P4023,Google Search > Web,6.37,0
+P4024,Referral > Web,43.61,0
+P4025,Referral > Web,37.96,0
+P4026,Referral > Web,22.03,0
+P4027,Referral > Web,19.79,1
+P4028,Google Search > Web,26.59,0
+P4029,Referral > Web,44.02,0
+P4030,Facebook > Google > Web,16.34,0
+P4031,Email > Facebook > Web,9.54,0
+P4032,Google Search > Web,43.91,0
+P4033,Google Search > Web,6.18,0
+P4034,Referral > Web,45.99,0
+P4035,Email > Facebook > Web,18.76,1
+P4036,Facebook > Google > Web,27.87,0
+P4037,Email > Facebook > Web,10.95,0
+P4038,Direct > Web,45.6,0
+P4039,Email > Facebook > Web,38.74,0
+P4040,Facebook > Google > Web,46.59,0
+P4041,Facebook > Google > Web,35.75,1
+P4042,Facebook > Google > Web,13.31,0
+P4043,Google Search > Web,18.87,0
+P4044,Google Search > Web,26.91,1
+P4045,Direct > Web,32.33,0
+P4046,Email > Facebook > Web,46.69,0
+P4047,Referral > Web,22.28,0
+P4048,Direct > Web,36.64,0
+P4049,Referral > Web,48.25,0
+P4050,Referral > Web,11.86,0
+P4051,Direct > Web,43.82,0
+P4052,Email > Facebook > Web,23.93,0
+P4053,Referral > Web,37.96,1
+P4054,Google Search > Web,18.21,1
+P4055,Google Search > Web,20.03,0
+P4056,Direct > Web,6.22,0
+P4057,Referral > Web,48.71,0
+P4058,Direct > Web,41.61,0
+P4059,Google Search > Web,9.23,0
+P4060,Direct > Web,49.98,0
+P4061,Referral > Web,32.23,0
+P4062,Referral > Web,43.42,1
+P4063,Google Search > Web,8.0,0
+P4064,Facebook > Google > Web,22.53,1
+P4065,Facebook > Google > Web,35.13,1
+P4066,Email > Facebook > Web,9.79,0
+P4067,Google Search > Web,27.0,0
+P4068,Email > Facebook > Web,24.92,0
+P4069,Google Search > Web,14.72,0
+P4070,Referral > Web,18.51,0
+P4071,Google Search > Web,48.52,0
+P4072,Direct > Web,17.99,0
+P4073,Email > Facebook > Web,14.6,0
+P4074,Google Search > Web,29.13,1
+P4075,Email > Facebook > Web,35.19,0
+P4076,Google Search > Web,37.63,0
+P4077,Facebook > Google > Web,38.94,0
+P4078,Email > Facebook > Web,6.66,1
+P4079,Referral > Web,22.72,0
+P4080,Referral > Web,39.83,1
+P4081,Google Search > Web,45.72,1
+P4082,Referral > Web,32.1,1
+P4083,Referral > Web,7.35,0
+P4084,Email > Facebook > Web,22.85,0
+P4085,Google Search > Web,8.34,0
+P4086,Email > Facebook > Web,38.68,0
+P4087,Google Search > Web,7.86,0
+P4088,Referral > Web,13.36,0
+P4089,Google Search > Web,23.76,0
+P4090,Google Search > Web,25.82,0
+P4091,Direct > Web,23.29,0
+P4092,Google Search > Web,25.85,0
+P4093,Direct > Web,37.1,1
+P4094,Email > Facebook > Web,21.62,0
+P4095,Direct > Web,29.65,0
+P4096,Email > Facebook > Web,18.65,0
+P4097,Google Search > Web,20.91,1
+P4098,Email > Facebook > Web,32.62,1
+P4099,Referral > Web,27.07,0
+P4100,Google Search > Web,37.54,0
+P4101,Direct > Web,30.22,0
+P4102,Facebook > Google > Web,41.16,0
+P4103,Google Search > Web,24.95,1
+P4104,Referral > Web,27.1,0
+P4105,Email > Facebook > Web,35.15,0
+P4106,Direct > Web,14.96,0
+P4107,Direct > Web,22.37,1
+P4108,Referral > Web,33.12,0
+P4109,Referral > Web,6.3,1
+P4110,Google Search > Web,24.66,0
+P4111,Facebook > Google > Web,31.95,0
+P4112,Facebook > Google > Web,48.53,0
+P4113,Email > Facebook > Web,44.47,0
+P4114,Direct > Web,17.63,1
+P4115,Google Search > Web,27.82,1
+P4116,Direct > Web,7.54,0
+P4117,Google Search > Web,15.83,0
+P4118,Referral > Web,39.87,0
+P4119,Email > Facebook > Web,10.55,0
+P4120,Referral > Web,16.6,0
+P4121,Direct > Web,47.48,0
+P4122,Email > Facebook > Web,42.07,1
+P4123,Google Search > Web,40.18,1
+P4124,Google Search > Web,43.91,0
+P4125,Email > Facebook > Web,38.73,1
+P4126,Referral > Web,10.43,0
+P4127,Email > Facebook > Web,28.25,0
+P4128,Referral > Web,24.99,0
+P4129,Email > Facebook > Web,19.0,0
+P4130,Referral > Web,42.53,1
+P4131,Facebook > Google > Web,25.89,1
+P4132,Email > Facebook > Web,7.71,0
+P4133,Referral > Web,17.37,0
+P4134,Direct > Web,15.29,0
+P4135,Direct > Web,44.94,0
+P4136,Email > Facebook > Web,34.13,1
+P4137,Email > Facebook > Web,30.22,1
+P4138,Google Search > Web,27.8,0
+P4139,Referral > Web,34.26,1
+P4140,Email > Facebook > Web,38.97,0
+P4141,Direct > Web,29.95,0
+P4142,Direct > Web,47.22,0
+P4143,Direct > Web,48.96,1
+P4144,Referral > Web,49.79,0
+P4145,Facebook > Google > Web,35.12,1
+P4146,Email > Facebook > Web,46.97,0
+P4147,Facebook > Google > Web,23.2,0
+P4148,Referral > Web,43.68,0
+P4149,Email > Facebook > Web,45.91,1
+P4150,Google Search > Web,45.69,0
+P4151,Email > Facebook > Web,42.39,1
+P4152,Email > Facebook > Web,23.3,0
+P4153,Email > Facebook > Web,12.15,0
+P4154,Email > Facebook > Web,20.03,1
+P4155,Email > Facebook > Web,39.53,0
+P4156,Referral > Web,15.48,1
+P4157,Email > Facebook > Web,26.52,0
+P4158,Referral > Web,30.44,0
+P4159,Email > Facebook > Web,32.17,1
+P4160,Email > Facebook > Web,47.11,1
+P4161,Referral > Web,34.77,0
+P4162,Email > Facebook > Web,40.38,0
+P4163,Direct > Web,31.18,0
+P4164,Email > Facebook > Web,42.51,0
+P4165,Google Search > Web,16.86,0
+P4166,Referral > Web,14.44,0
+P4167,Email > Facebook > Web,46.68,1
+P4168,Email > Facebook > Web,36.21,1
+P4169,Referral > Web,35.22,0
+P4170,Facebook > Google > Web,26.03,1
+P4171,Direct > Web,21.95,0
+P4172,Direct > Web,30.01,0
+P4173,Email > Facebook > Web,10.43,1
+P4174,Referral > Web,25.46,1
+P4175,Google Search > Web,25.49,0
+P4176,Email > Facebook > Web,29.23,1
+P4177,Direct > Web,33.56,0
+P4178,Email > Facebook > Web,48.08,1
+P4179,Referral > Web,34.35,0
+P4180,Google Search > Web,44.77,1
+P4181,Facebook > Google > Web,30.03,0
+P4182,Google Search > Web,33.21,0
+P4183,Email > Facebook > Web,8.14,0
+P4184,Direct > Web,11.0,0
+P4185,Referral > Web,31.09,0
+P4186,Email > Facebook > Web,22.81,1
+P4187,Facebook > Google > Web,40.95,1
+P4188,Referral > Web,29.44,0
+P4189,Referral > Web,44.7,1
+P4190,Referral > Web,48.75,0
+P4191,Email > Facebook > Web,11.64,0
+P4192,Facebook > Google > Web,22.77,1
+P4193,Email > Facebook > Web,34.92,0
+P4194,Referral > Web,18.75,1
+P4195,Referral > Web,17.02,1
+P4196,Direct > Web,41.62,0
+P4197,Google Search > Web,49.12,0
+P4198,Email > Facebook > Web,39.82,0
+P4199,Facebook > Google > Web,28.57,1
+P4200,Referral > Web,24.91,0
+P4201,Email > Facebook > Web,29.28,0
+P4202,Google Search > Web,25.83,0
+P4203,Email > Facebook > Web,27.63,0
+P4204,Google Search > Web,14.16,1
+P4205,Email > Facebook > Web,45.67,0
+P4206,Direct > Web,38.95,1
+P4207,Email > Facebook > Web,35.64,0
+P4208,Direct > Web,47.75,0
+P4209,Google Search > Web,17.8,0
+P4210,Referral > Web,8.65,1
+P4211,Referral > Web,42.18,0
+P4212,Email > Facebook > Web,49.93,0
+P4213,Facebook > Google > Web,31.03,0
+P4214,Email > Facebook > Web,7.65,0
+P4215,Direct > Web,40.12,0
+P4216,Direct > Web,8.32,0
+P4217,Google Search > Web,29.3,0
+P4218,Email > Facebook > Web,17.49,0
+P4219,Google Search > Web,46.18,1
+P4220,Facebook > Google > Web,25.31,0
+P4221,Referral > Web,45.43,0
+P4222,Referral > Web,18.46,0
+P4223,Email > Facebook > Web,22.43,0
+P4224,Google Search > Web,47.62,0
+P4225,Google Search > Web,14.06,0
+P4226,Facebook > Google > Web,31.03,0
+P4227,Google Search > Web,22.48,0
+P4228,Direct > Web,39.84,0
+P4229,Direct > Web,10.82,1
+P4230,Direct > Web,24.67,1
+P4231,Email > Facebook > Web,36.45,1
+P4232,Direct > Web,23.32,0
+P4233,Direct > Web,7.63,0
+P4234,Referral > Web,36.73,1
+P4235,Email > Facebook > Web,27.64,0
+P4236,Direct > Web,5.51,0
+P4237,Facebook > Google > Web,32.57,0
+P4238,Direct > Web,46.39,0
+P4239,Email > Facebook > Web,10.0,1
+P4240,Google Search > Web,31.58,1
+P4241,Referral > Web,37.79,1
+P4242,Referral > Web,8.18,1
+P4243,Email > Facebook > Web,6.02,0
+P4244,Direct > Web,25.89,1
+P4245,Facebook > Google > Web,40.6,0
+P4246,Direct > Web,12.23,0
+P4247,Direct > Web,42.65,0
+P4248,Facebook > Google > Web,34.55,1
+P4249,Referral > Web,19.95,1
+P4250,Direct > Web,28.21,0
+P4251,Google Search > Web,48.45,0
+P4252,Google Search > Web,14.74,0
+P4253,Email > Facebook > Web,27.48,0
+P4254,Email > Facebook > Web,33.1,0
+P4255,Facebook > Google > Web,11.21,1
+P4256,Facebook > Google > Web,6.96,0
+P4257,Email > Facebook > Web,5.61,0
+P4258,Direct > Web,19.61,1
+P4259,Referral > Web,8.33,0
+P4260,Google Search > Web,41.17,0
+P4261,Facebook > Google > Web,49.88,1
+P4262,Email > Facebook > Web,7.76,1
+P4263,Google Search > Web,24.47,0
+P4264,Facebook > Google > Web,6.16,0
+P4265,Facebook > Google > Web,11.03,0
+P4266,Direct > Web,19.53,0
+P4267,Facebook > Google > Web,22.72,0
+P4268,Referral > Web,47.29,0
+P4269,Facebook > Google > Web,22.81,1
+P4270,Referral > Web,27.33,0
+P4271,Direct > Web,16.05,0
+P4272,Referral > Web,5.01,0
+P4273,Google Search > Web,45.47,0
+P4274,Facebook > Google > Web,8.68,0
+P4275,Email > Facebook > Web,48.39,1
+P4276,Email > Facebook > Web,10.89,0
+P4277,Referral > Web,32.22,0
+P4278,Direct > Web,49.97,0
+P4279,Referral > Web,11.23,0
+P4280,Referral > Web,24.08,0
+P4281,Referral > Web,40.12,0
+P4282,Google Search > Web,6.45,0
+P4283,Google Search > Web,36.04,0
+P4284,Referral > Web,8.62,1
+P4285,Direct > Web,15.64,0
+P4286,Facebook > Google > Web,12.2,0
+P4287,Email > Facebook > Web,45.83,0
+P4288,Google Search > Web,13.12,0
+P4289,Facebook > Google > Web,6.82,0
+P4290,Google Search > Web,31.44,0
+P4291,Google Search > Web,20.58,0
+P4292,Google Search > Web,23.26,1
+P4293,Referral > Web,10.36,0
+P4294,Referral > Web,38.67,1
+P4295,Google Search > Web,32.07,1
+P4296,Google Search > Web,21.39,0
+P4297,Email > Facebook > Web,12.72,0
+P4298,Facebook > Google > Web,31.71,0
+P4299,Facebook > Google > Web,40.04,0
+P4300,Direct > Web,19.06,0
+P4301,Direct > Web,6.16,0
+P4302,Direct > Web,14.65,1
+P4303,Referral > Web,35.71,0
+P4304,Referral > Web,49.51,0
+P4305,Email > Facebook > Web,5.6,0
+P4306,Referral > Web,18.78,0
+P4307,Direct > Web,7.79,1
+P4308,Google Search > Web,19.24,0
+P4309,Direct > Web,23.27,0
+P4310,Email > Facebook > Web,46.44,1
+P4311,Google Search > Web,8.63,1
+P4312,Referral > Web,39.97,1
+P4313,Google Search > Web,22.8,1
+P4314,Email > Facebook > Web,41.51,0
+P4315,Referral > Web,28.1,0
+P4316,Facebook > Google > Web,6.77,0
+P4317,Direct > Web,47.58,0
+P4318,Direct > Web,8.72,0
+P4319,Email > Facebook > Web,31.9,1
+P4320,Email > Facebook > Web,44.5,0
+P4321,Direct > Web,8.59,1
+P4322,Google Search > Web,29.93,0
+P4323,Facebook > Google > Web,42.09,0
+P4324,Facebook > Google > Web,49.38,0
+P4325,Email > Facebook > Web,37.59,0
+P4326,Email > Facebook > Web,17.53,0
+P4327,Google Search > Web,36.48,0
+P4328,Email > Facebook > Web,36.76,0
+P4329,Facebook > Google > Web,36.5,1
+P4330,Direct > Web,43.44,0
+P4331,Facebook > Google > Web,8.93,0
+P4332,Google Search > Web,9.88,0
+P4333,Direct > Web,33.83,0
+P4334,Direct > Web,47.92,1
+P4335,Facebook > Google > Web,25.96,1
+P4336,Direct > Web,48.23,1
+P4337,Direct > Web,47.21,0
+P4338,Email > Facebook > Web,45.63,0
+P4339,Direct > Web,45.94,1
+P4340,Google Search > Web,45.42,1
+P4341,Direct > Web,41.9,1
+P4342,Email > Facebook > Web,36.27,1
+P4343,Referral > Web,6.1,0
+P4344,Referral > Web,10.95,0
+P4345,Google Search > Web,11.04,1
+P4346,Google Search > Web,6.06,1
+P4347,Direct > Web,10.25,1
+P4348,Direct > Web,46.39,0
+P4349,Referral > Web,34.87,0
+P4350,Referral > Web,19.04,0
+P4351,Facebook > Google > Web,40.7,0
+P4352,Referral > Web,26.98,0
+P4353,Referral > Web,11.4,1
+P4354,Google Search > Web,44.8,0
+P4355,Facebook > Google > Web,20.24,0
+P4356,Facebook > Google > Web,36.45,0
+P4357,Direct > Web,18.08,0
+P4358,Direct > Web,27.5,0
+P4359,Facebook > Google > Web,41.73,1
+P4360,Facebook > Google > Web,12.05,0
+P4361,Direct > Web,48.98,0
+P4362,Google Search > Web,8.16,1
+P4363,Google Search > Web,29.03,0
+P4364,Google Search > Web,46.22,0
+P4365,Google Search > Web,47.56,0
+P4366,Direct > Web,15.44,0
+P4367,Email > Facebook > Web,11.48,0
+P4368,Referral > Web,37.6,0
+P4369,Referral > Web,6.89,1
+P4370,Referral > Web,26.84,0
+P4371,Referral > Web,40.84,0
+P4372,Direct > Web,30.21,0
+P4373,Email > Facebook > Web,13.46,0
+P4374,Direct > Web,26.92,0
+P4375,Email > Facebook > Web,46.46,1
+P4376,Direct > Web,32.77,0
+P4377,Facebook > Google > Web,37.47,0
+P4378,Email > Facebook > Web,20.13,1
+P4379,Referral > Web,13.48,0
+P4380,Email > Facebook > Web,16.5,0
+P4381,Google Search > Web,28.99,0
+P4382,Email > Facebook > Web,17.61,0
+P4383,Google Search > Web,29.39,0
+P4384,Google Search > Web,36.85,0
+P4385,Facebook > Google > Web,38.05,0
+P4386,Email > Facebook > Web,12.41,0
+P4387,Facebook > Google > Web,38.77,1
+P4388,Referral > Web,35.27,0
+P4389,Email > Facebook > Web,5.54,0
+P4390,Direct > Web,7.65,0
+P4391,Direct > Web,34.08,0
+P4392,Direct > Web,22.27,0
+P4393,Google Search > Web,11.57,0
+P4394,Direct > Web,7.0,0
+P4395,Referral > Web,12.17,0
+P4396,Email > Facebook > Web,48.09,0
+P4397,Email > Facebook > Web,37.74,1
+P4398,Google Search > Web,28.75,0
+P4399,Google Search > Web,47.37,1
+P4400,Google Search > Web,32.86,1
+P4401,Referral > Web,37.65,1
+P4402,Email > Facebook > Web,17.72,1
+P4403,Facebook > Google > Web,31.5,0
+P4404,Google Search > Web,11.46,0
+P4405,Direct > Web,23.2,0
+P4406,Facebook > Google > Web,6.5,1
+P4407,Facebook > Google > Web,14.75,0
+P4408,Google Search > Web,8.37,0
+P4409,Direct > Web,22.45,0
+P4410,Google Search > Web,42.94,0
+P4411,Google Search > Web,22.01,0
+P4412,Direct > Web,42.42,0
+P4413,Facebook > Google > Web,34.54,1
+P4414,Facebook > Google > Web,27.93,1
+P4415,Direct > Web,15.66,1
+P4416,Facebook > Google > Web,46.5,1
+P4417,Referral > Web,7.44,0
+P4418,Google Search > Web,36.0,1
+P4419,Referral > Web,32.96,0
+P4420,Referral > Web,24.85,1
+P4421,Referral > Web,15.81,0
+P4422,Email > Facebook > Web,24.38,0
+P4423,Email > Facebook > Web,44.27,1
+P4424,Referral > Web,42.65,0
+P4425,Google Search > Web,47.36,0
+P4426,Referral > Web,18.85,0
+P4427,Referral > Web,22.42,0
+P4428,Email > Facebook > Web,5.84,0
+P4429,Referral > Web,47.43,0
+P4430,Google Search > Web,19.82,0
+P4431,Google Search > Web,23.19,0
+P4432,Referral > Web,45.85,0
+P4433,Google Search > Web,28.7,0
+P4434,Referral > Web,30.48,0
+P4435,Email > Facebook > Web,12.93,0
+P4436,Referral > Web,27.44,0
+P4437,Facebook > Google > Web,46.32,0
+P4438,Email > Facebook > Web,30.14,1
+P4439,Google Search > Web,16.48,1
+P4440,Google Search > Web,6.4,1
+P4441,Email > Facebook > Web,20.13,0
+P4442,Facebook > Google > Web,30.77,0
+P4443,Email > Facebook > Web,6.92,0
+P4444,Direct > Web,32.44,0
+P4445,Facebook > Google > Web,28.55,1
+P4446,Email > Facebook > Web,40.25,0
+P4447,Direct > Web,6.3,0
+P4448,Referral > Web,40.14,0
+P4449,Facebook > Google > Web,28.44,0
+P4450,Referral > Web,21.67,0
+P4451,Direct > Web,48.44,0
+P4452,Google Search > Web,12.21,0
+P4453,Google Search > Web,29.36,0
+P4454,Google Search > Web,19.44,0
+P4455,Referral > Web,28.74,1
+P4456,Facebook > Google > Web,29.85,1
+P4457,Referral > Web,9.03,1
+P4458,Referral > Web,34.75,0
+P4459,Google Search > Web,33.55,0
+P4460,Referral > Web,39.63,1
+P4461,Direct > Web,9.08,0
+P4462,Email > Facebook > Web,18.38,0
+P4463,Email > Facebook > Web,34.25,0
+P4464,Email > Facebook > Web,11.15,0
+P4465,Google Search > Web,35.49,0
+P4466,Google Search > Web,7.66,1
+P4467,Email > Facebook > Web,20.07,0
+P4468,Facebook > Google > Web,43.1,0
+P4469,Email > Facebook > Web,39.84,0
+P4470,Referral > Web,34.01,0
+P4471,Email > Facebook > Web,44.17,0
+P4472,Email > Facebook > Web,36.92,0
+P4473,Facebook > Google > Web,28.37,0
+P4474,Google Search > Web,49.09,1
+P4475,Google Search > Web,36.27,0
+P4476,Referral > Web,32.06,0
+P4477,Email > Facebook > Web,23.4,0
+P4478,Direct > Web,45.61,0
+P4479,Referral > Web,18.31,0
+P4480,Google Search > Web,5.41,0
+P4481,Facebook > Google > Web,13.85,1
+P4482,Google Search > Web,9.93,0
+P4483,Google Search > Web,19.35,0
+P4484,Facebook > Google > Web,42.16,0
+P4485,Email > Facebook > Web,34.32,1
+P4486,Email > Facebook > Web,12.6,0
+P4487,Google Search > Web,40.5,0
+P4488,Referral > Web,27.69,1
+P4489,Direct > Web,28.07,0
+P4490,Referral > Web,21.3,0
+P4491,Referral > Web,43.91,0
+P4492,Google Search > Web,19.32,1
+P4493,Google Search > Web,9.24,1
+P4494,Direct > Web,18.62,1
+P4495,Direct > Web,37.19,1
+P4496,Direct > Web,34.59,0
+P4497,Google Search > Web,13.46,0
+P4498,Google Search > Web,10.03,0
+P4499,Referral > Web,34.74,1
