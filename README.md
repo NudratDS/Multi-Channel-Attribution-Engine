@@ -19,6 +19,3 @@ Determine which marketing channels contribute most to patient appointment bookin
 - ROI-driven marketing insights  
 - Decision-making support for campaigns  
 
-## 📬 Connect
-- LinkedIn: [Nudrat Abbas](https://www.linkedin.com/in/nudrat-abbas-🎯-664378324)  
-- Email: nudratanalytics@gmail.com
